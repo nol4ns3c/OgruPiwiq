@@ -1,2 +1,4 @@
-# OgruPiwiq
-stealer written in C (^^)
+ /\_/\
+( o.o )
+ > ^ <
+meow
